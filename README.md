@@ -14,5 +14,5 @@
   As this is just a custom ImageView 
   -> https://github.com/hdodenhof/CircleImageView
 
-all this project is base of free corse -> https://www.letsbuildthatapp.com/
+all this project is base of free course -> https://www.letsbuildthatapp.com/
    
